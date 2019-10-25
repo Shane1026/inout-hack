@@ -5,7 +5,7 @@ VRScript is a visual, easy to use and completely revolutionary programming langu
 
 # How to get started with the development version ?
 
-1. Install the prerequisites
+1. Prerequisites must be installed.
 
 ```git clone https://github.com/satyamtg/inout-hack.git
 cd inout-hack
